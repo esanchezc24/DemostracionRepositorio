@@ -16,6 +16,10 @@ public class ProyectoPrueba {
         // TODO code application logic here
     }
     public String getNombre(){
-    return nombre;
+        return nombre;
+    }
+    
+    public int getValor(){
+        return valor;
     }
 }
